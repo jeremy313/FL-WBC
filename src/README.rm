@@ -1,8 +1,0 @@
-Quick start
-For Fashion-MNIST dataset, you can reproduce the results of single image defense in the paper by running
-```
-python fedavg.py --dataset=fmnist --num_users=100 --iid=1 --gpu=0 --frac=0.1 --model=cnn --epoch=500 --mal_boost=5 --local_mal_ep=10 --pert_strength=0.4 --num_mal_samples=1 --defense=Hessian
-```
-
-"--pert_strength" is "s" in the paper
-"mal_boost" is the number of attackers in one round
