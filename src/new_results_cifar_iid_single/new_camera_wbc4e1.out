@@ -1708,4 +1708,445 @@ user 73, loss 1.7010962708294393, acc 0.32
 user 8, loss 1.7302146288752553, acc 0.36
 user 87, loss 1.5679863636940718, acc 0.22
 user 99, loss 1.8069360837340356, acc 0.22
-user 89, loss 1.7514420859515671, acc 0.3 80%|████████  | 80/100 [43:05<10:00, 30.01s/it] 81%|████████  | 81/100 [43:35<09:30, 30.03s/it] 82%|████████▏ | 82/100 [44:05<08:58, 29.94s/it] 83%|████████▎ | 83/100 [44:34<08:27, 29.86s/it] 84%|████████▍ | 84/100 [45:04<07:56, 29.76s/it] 85%|████████▌ | 85/100 [45:33<07:23, 29.58s/it] 86%|████████▌ | 86/100 [46:02<06:53, 29.52s/it] 87%|████████▋ | 87/100 [46:32<06:23, 29.51s/it] 88%|████████▊ | 88/100 [47:02<05:54, 29.54s/it]
+user 89, loss 1.7514420859515671, acc 0.3 80%|████████  | 80/100 [43:05<10:00, 30.01s/it] 81%|████████  | 81/100 [43:35<09:30, 30.03s/it] 82%|████████▏ | 82/100 [44:05<08:58, 29.94s/it] 83%|████████▎ | 83/100 [44:34<08:27, 29.86s/it] 84%|████████▍ | 84/100 [45:04<07:56, 29.76s/it] 85%|████████▌ | 85/100 [45:33<07:23, 29.58s/it] 86%|████████▌ | 86/100 [46:02<06:53, 29.52s/it] 87%|████████▋ | 87/100 [46:32<06:23, 29.51s/it] 88%|████████▊ | 88/100 [47:02<05:54, 29.54s/it] 89%|████████▉ | 89/100 [47:28<05:14, 28.62s/it] 90%|█████████ | 90/100 [47:57<04:48, 28.82s/it]
+user 5, loss 1.7410494093596935, acc 0.26
+user 51, loss 1.7604508729279043, acc 0.32
+user 34, loss 1.6750582589209078, acc 0.32
+user 93, loss 1.6635404331237076, acc 0.3
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+ 
+Avg Training Stats after 80 global rounds:
+Training Loss : 1.4437918733488406
+Global model Benign Test Accuracy: 36.25% 
+
+Global model Malicious Accuracy: 0.00%, Malicious Loss: 358.75 , Outputs: tensor([0.0277])
+
+
+ | Global Training Round : 81 |
+
+user 24, loss 1.7328130885958672, acc 0.26
+user 29, loss 1.74878852725029, acc 0.42
+user 19, loss 1.6184654361009598, acc 0.3
+user 27, loss 1.819761243760586, acc 0.36
+user 95, loss 1.8555544093251228, acc 0.32
+user 3, loss 1.7546949458122252, acc 0.42
+user 1, loss 1.6818109133839605, acc 0.14
+user 18, loss 1.6987410703301429, acc 0.3
+user 35, loss 1.7111594910919667, acc 0.26
+user 96, loss 1.6258878216147419, acc 0.26
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+ 
+Avg Training Stats after 81 global rounds:
+Training Loss : 1.4472607106498003
+Global model Benign Test Accuracy: 35.83% 
+
+Global model Malicious Accuracy: 0.00%, Malicious Loss: 214.90 , Outputs: tensor([0.1166])
+
+
+ | Global Training Round : 82 |
+
+user 83, loss 1.7283062963187692, acc 0.2
+user 77, loss 1.7617046239972116, acc 0.3
+user 65, loss 1.9194809094071388, acc 0.3
+user 48, loss 1.6710919459164146, acc 0.22
+user 70, loss 1.6798271830379963, acc 0.44
+user 72, loss 1.644008067548275, acc 0.32
+user 1, loss 1.5826294554024933, acc 0.22
+user 97, loss 1.7272188664972785, acc 0.26
+user 95, loss 1.8669691200554372, acc 0.22
+user 11, loss 1.7830724747478963, acc 0.26
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+ 
+Avg Training Stats after 82 global rounds:
+Training Loss : 1.4507871763039843
+Global model Benign Test Accuracy: 36.24% 
+
+Global model Malicious Accuracy: 0.00%, Malicious Loss: 213.89 , Outputs: tensor([0.1178])
+
+
+ | Global Training Round : 83 |
+
+user 99, loss 1.7909306293725966, acc 0.36
+user 75, loss 1.7731602771580222, acc 0.42
+user 92, loss 1.7462636998295782, acc 0.44
+user 51, loss 1.8209607847034932, acc 0.24
+user 68, loss 1.7542542834579944, acc 0.24
+user 36, loss 1.7525200927257536, acc 0.26
+user 49, loss 1.7517314018309116, acc 0.2
+user 1, loss 1.6155812436342238, acc 0.14
+user 3, loss 1.6720658341050147, acc 0.22
+user 57, loss 1.7178165131807326, acc 0.26
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+ 
+Avg Training Stats after 83 global rounds:
+Training Loss : 1.4542659871436934
+Global model Benign Test Accuracy: 36.15% 
+
+Global model Malicious Accuracy: 0.00%, Malicious Loss: 215.11 , Outputs: tensor([0.1164])
+
+
+ | Global Training Round : 84 |
+
+user 34, loss 1.6323066970705988, acc 0.24
+user 94, loss 1.5854181505739688, acc 0.22
+user 71, loss 1.7671389181911947, acc 0.3
+user 99, loss 1.7261609078943732, acc 0.34
+user 21, loss 1.7332327711582185, acc 0.26
+user 83, loss 1.5908012333512307, acc 0.4
+user 20, loss 1.6367155160009859, acc 0.34
+user 48, loss 1.7215267366170885, acc 0.12
+user 84, loss 1.6793107789754866, acc 0.38
+user 30, loss 1.7790877608954907, acc 0.22
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+ 
+Avg Training Stats after 84 global rounds:
+Training Loss : 1.457014843809517
+Global model Benign Test Accuracy: 37.93% 
+
+Global model Malicious Accuracy: 0.00%, Malicious Loss: 221.73 , Outputs: tensor([0.1089])
+
+
+ | Global Training Round : 85 |
+
+user 71, loss 1.5350484480708837, acc 0.28
+user 23, loss 1.8046736040711402, acc 0.28
+user 58, loss 1.7196310201287273, acc 0.26
+user 76, loss 1.621738784685731, acc 0.3
+user 0, loss 1.7070018371194604, acc 0.42
+user 8, loss 1.7389546754956242, acc 0.34
+user 89, loss 1.719627539217472, acc 0.26
+user 95, loss 1.7983914913237093, acc 0.4
+user 21, loss 1.713615054935217, acc 0.3
+user 45, loss 1.800748542100191, acc 0.2
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+ 
+Avg Training Stats after 85 global rounds:
+Training Loss : 1.4600610585848735
+Global model Benign Test Accuracy: 37.47% 
+
+Global model Malicious Accuracy: 0.00%, Malicious Loss: 920.02 , Outputs: tensor([0.0001])
+
+
+ | Global Training Round : 86 |
+
+user 44, loss 1.7527205774188044, acc 0.4
+user 58, loss 1.661154624074698, acc 0.42
+user 77, loss 1.6991009201109406, acc 0.28
+user 73, loss 1.6880345572531223, acc 0.38
+user 74, loss 1.8084399028122422, acc 0.38
+user 96, loss 1.4939113004505638, acc 0.28
+user 48, loss 1.7155625076591972, acc 0.24
+user 80, loss 1.8890915676951407, acc 0.24
+user 22, loss 1.820039303004742, acc 0.34
+user 35, loss 1.6711521425843237, acc 0.3
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+ 
+Avg Training Stats after 86 global rounds:
+Training Loss : 1.4630826827909373
+Global model Benign Test Accuracy: 37.09% 
+
+Global model Malicious Accuracy: 0.00%, Malicious Loss: 215.01 , Outputs: tensor([0.1165])
+
+
+ | Global Training Round : 87 |
+
+user 31, loss 1.7318916569650173, acc 0.36
+user 49, loss 1.662922291085124, acc 0.26
+user 22, loss 1.7053467917442322, acc 0.3
+user 6, loss 1.54414891526103, acc 0.38
+user 28, loss 1.7275905314087865, acc 0.34
+user 99, loss 1.6479236769676207, acc 0.4
+user 77, loss 1.687975007891655, acc 0.34
+user 85, loss 1.7246068470180034, acc 0.36
+user 92, loss 1.698671173155308, acc 0.38
+user 9, loss 1.5918388400971888, acc 0.28
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+ 
+Avg Training Stats after 87 global rounds:
+Training Loss : 1.4654873826802302
+Global model Benign Test Accuracy: 38.02% 
+
+Global model Malicious Accuracy: 0.00%, Malicious Loss: 691.54 , Outputs: tensor([0.0010])
+
+
+ | Global Training Round : 88 |
+
+user 49, loss 1.605490022599697, acc 0.28
+user 66, loss 1.7583283886313434, acc 0.38
+user 71, loss 1.530014744400978, acc 0.32
+user 23, loss 1.7645539961755279, acc 0.36
+user 84, loss 1.672654114663601, acc 0.26
+user 92, loss 1.6294029515981674, acc 0.42
+user 44, loss 1.6389746363461015, acc 0.44
+user 42, loss 1.6945905597507953, acc 0.24
+user 69, loss 1.6843217068910596, acc 0.32
+user 12, loss 1.714462843835354, acc 0.16
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+ 
+Avg Training Stats after 88 global rounds:
+Training Loss : 1.4678032010189688
+Global model Benign Test Accuracy: 38.13% 
+
+Global model Malicious Accuracy: 0.00%, Malicious Loss: 515.40 , Outputs: tensor([0.0058])
+
+
+ | Global Training Round : 89 |
+
+Malcious user 7 is selected!
+user 7, loss 2.6984235763549806, acc 0.22, mal loss 2.0007853507995605, mal acc 1.0
+user 53, loss 1.7409690035879613, acc 0.36
+user 30, loss 1.7784442663192752, acc 0.22
+user 86, loss 1.659329217374325, acc 0.34
+user 9, loss 1.5290541278570893, acc 0.24
+user 48, loss 1.6809223192930223, acc 0.3
+user 50, loss 1.6093250896036626, acc 0.24
+user 84, loss 1.6142057600617405, acc 0.34
+user 45, loss 1.6676406237483026, acc 0.32
+user 71, loss 1.5634695380926131, acc 0.38
+[5, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+ 
+Avg Training Stats after 89 global rounds:
+Training Loss : 1.4710208993471747
+Global model Benign Test Accuracy: 28.24% 
+
+Global model Malicious Accuracy: 0.00%, Malicious Loss: 221.54 , Outputs: tensor([0.1091])
+
+
+ | Global Training Round : 90 |
+
+user 45, loss 1.5527802331745624, acc 0.42
+user 65, loss 1.488308449536562, acc 0.38
+user 4, loss 1.5966825440526011, acc 0.24
+user 17, loss 1.5291184414923191, acc 0.44
+user 31, loss 1.5051551634073257, acc 0.5
+user 28, loss 1.4692744320631026, acc 0.32
+user 60, loss 1.5780948022007943, acc 0.32
+user 46, loss 1.497276775687933, acc 0.38
+user 88, loss 1.4477893415093421, acc 0.34
+user 79, loss 1.458248023986816, acc 0.3
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+ 
+Avg Training Stats after 90 global rounds:
+Training Loss : 1.4714792540289965
+Global model Benign Test Accuracy: 43.24% 
+
+Global model Malicious Accuracy: 0.00%, Malicious Loss: 496.76 , Outputs: tensor([0.0070])
+
+
+ | Global Training Round : 91 |
+
+user 51, loss 1.4572184596955775, acc 0.3
+user 69, loss 1.37965138271451, acc 0.48
+user 58, loss 1.4075470225512983, acc 0.42
+user 21, loss 1.4131981110572815, acc 0.32
+user 16, loss 1.3809151262789965, acc 0.38
+user 67, loss 1.4239646206051113, acc 0.36
+user 65, loss 1.3760505993664265, acc 0.42
+user 88, loss 1.2913944267481565, acc 0.32
+user 38, loss 1.33389086574316, acc 0.28
+user 19, loss 1.3041224467754362, acc 0.34
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+ 
+Avg Training Stats after 91 global rounds:
+Training Loss : 1.4704387710853106
+Global model Benign Test Accuracy: 44.03% 
+
+Global model Malicious Accuracy: 0.00%, Malicious Loss: 526.10 , Outputs: tensor([0.0052])
+ 91%|█████████ | 91/100 [48:27<04:22, 29.14s/it] 92%|█████████▏| 92/100 [48:57<03:55, 29.39s/it] 93%|█████████▎| 93/100 [49:27<03:26, 29.57s/it] 94%|█████████▍| 94/100 [49:57<02:57, 29.59s/it] 95%|█████████▌| 95/100 [50:26<02:27, 29.46s/it] 96%|█████████▌| 96/100 [50:55<01:57, 29.30s/it] 97%|█████████▋| 97/100 [51:24<01:27, 29.30s/it] 98%|█████████▊| 98/100 [51:54<00:58, 29.39s/it] 99%|█████████▉| 99/100 [52:23<00:29, 29.20s/it]100%|██████████| 100/100 [52:52<00:00, 29.34s/it]100%|██████████| 100/100 [52:52<00:00, 31.73s/it]
+
+
+ | Global Training Round : 92 |
+
+user 34, loss 1.2393423879891632, acc 0.32
+user 74, loss 1.309731196090579, acc 0.32
+user 65, loss 1.3612178364396095, acc 0.32
+user 29, loss 1.3513476854562758, acc 0.34
+user 55, loss 1.4769362862408162, acc 0.38
+user 52, loss 1.4340982322394848, acc 0.48
+user 16, loss 1.3209172539412974, acc 0.36
+user 38, loss 1.2280745730549099, acc 0.42
+user 41, loss 1.388783056586981, acc 0.34
+user 22, loss 1.367926768809557, acc 0.34
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+ 
+Avg Training Stats after 92 global rounds:
+Training Loss : 1.4691061488744364
+Global model Benign Test Accuracy: 44.52% 
+
+Global model Malicious Accuracy: 0.00%, Malicious Loss: 470.79 , Outputs: tensor([0.0090])
+
+
+ | Global Training Round : 93 |
+
+user 41, loss 1.421440880149603, acc 0.34
+user 9, loss 1.3066176678240298, acc 0.3
+user 14, loss 1.3756548234075308, acc 0.34
+user 59, loss 1.3918567186594006, acc 0.36
+user 63, loss 1.287408652305603, acc 0.3
+user 33, loss 1.4135580406337975, acc 0.32
+user 94, loss 1.233826282992959, acc 0.32
+user 46, loss 1.3639552608132364, acc 0.3
+user 76, loss 1.378129119873047, acc 0.44
+user 72, loss 1.3102615389227865, acc 0.42
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+ 
+Avg Training Stats after 93 global rounds:
+Training Loss : 1.4678068451075952
+Global model Benign Test Accuracy: 44.86% 
+
+Global model Malicious Accuracy: 0.00%, Malicious Loss: 515.54 , Outputs: tensor([0.0058])
+
+
+ | Global Training Round : 94 |
+
+user 24, loss 1.4180596996843815, acc 0.3
+user 67, loss 1.373949331790209, acc 0.4
+user 47, loss 1.4405288497358562, acc 0.4
+user 72, loss 1.2697515829652548, acc 0.36
+user 19, loss 1.24105530038476, acc 0.34
+user 54, loss 1.3576051223278047, acc 0.32
+user 56, loss 1.2091079941391947, acc 0.4
+user 51, loss 1.4324954864382744, acc 0.3
+user 74, loss 1.2705957987904548, acc 0.42
+user 36, loss 1.4078011758625506, acc 0.42
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+ 
+Avg Training Stats after 94 global rounds:
+Training Loss : 1.4664694854172151
+Global model Benign Test Accuracy: 44.57% 
+
+Global model Malicious Accuracy: 0.00%, Malicious Loss: 443.49 , Outputs: tensor([0.0119])
+
+
+ | Global Training Round : 95 |
+
+user 5, loss 1.3768933084607122, acc 0.3
+user 56, loss 1.2120924974232914, acc 0.34
+user 98, loss 1.367769811749458, acc 0.36
+user 2, loss 1.3554651483893394, acc 0.4
+user 65, loss 1.3246187004446983, acc 0.48
+user 29, loss 1.3682508899271488, acc 0.32
+user 95, loss 1.4677307637035848, acc 0.44
+user 9, loss 1.2431665240228176, acc 0.24
+user 46, loss 1.3463574020564557, acc 0.32
+user 36, loss 1.3568027158081533, acc 0.34
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+ 
+Avg Training Stats after 95 global rounds:
+Training Loss : 1.4651583832149135
+Global model Benign Test Accuracy: 44.39% 
+
+Global model Malicious Accuracy: 0.00%, Malicious Loss: 584.37 , Outputs: tensor([0.0029])
+
+
+ | Global Training Round : 96 |
+
+user 11, loss 1.404763633161783, acc 0.44
+user 60, loss 1.4048568364977836, acc 0.46
+user 30, loss 1.3896811470389365, acc 0.3
+user 72, loss 1.208654756844044, acc 0.46
+user 90, loss 1.3378283263742923, acc 0.38
+user 43, loss 1.3895210941135883, acc 0.46
+user 22, loss 1.2397630636394026, acc 0.36
+user 34, loss 1.2414015249162913, acc 0.26
+user 83, loss 1.2954510310292242, acc 0.54
+user 27, loss 1.3438805875182154, acc 0.42
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+ 
+Avg Training Stats after 96 global rounds:
+Training Loss : 1.4637044438076057
+Global model Benign Test Accuracy: 44.72% 
+
+Global model Malicious Accuracy: 0.00%, Malicious Loss: 783.26 , Outputs: tensor([0.0004])
+
+
+ | Global Training Round : 97 |
+
+user 27, loss 1.3079795629531146, acc 0.42
+user 54, loss 1.366831392198801, acc 0.3
+user 38, loss 1.2399785651639106, acc 0.34
+user 50, loss 1.3816265788674353, acc 0.32
+user 66, loss 1.3491512332856654, acc 0.26
+user 91, loss 1.3828084848076105, acc 0.3
+user 16, loss 1.3277266301214696, acc 0.36
+user 30, loss 1.3668123603984712, acc 0.3
+user 2, loss 1.3042904478311537, acc 0.26
+user 68, loss 1.3627827383577822, acc 0.4
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+ 
+Avg Training Stats after 97 global rounds:
+Training Loss : 1.4624188186075124
+Global model Benign Test Accuracy: 44.25% 
+
+Global model Malicious Accuracy: 0.00%, Malicious Loss: 699.52 , Outputs: tensor([0.0009])
+
+
+ | Global Training Round : 98 |
+
+user 37, loss 1.4308538572490215, acc 0.3
+user 48, loss 1.3021548381447794, acc 0.28
+user 90, loss 1.2538781064003708, acc 0.46
+user 74, loss 1.2834423062205313, acc 0.42
+user 88, loss 1.3015722227841617, acc 0.4
+user 68, loss 1.3407791571319103, acc 0.38
+user 54, loss 1.2995663951337337, acc 0.3
+user 6, loss 1.299489414989948, acc 0.5
+user 22, loss 1.2743625070154665, acc 0.4
+user 71, loss 1.3602570953965187, acc 0.4
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+ 
+Avg Training Stats after 98 global rounds:
+Training Loss : 1.4609108264793402
+Global model Benign Test Accuracy: 44.74% 
+
+Global model Malicious Accuracy: 0.00%, Malicious Loss: 698.74 , Outputs: tensor([0.0009])
+
+
+ | Global Training Round : 99 |
+
+user 43, loss 1.332354428768158, acc 0.42
+user 2, loss 1.2844619254022835, acc 0.42
+user 68, loss 1.2338181376084687, acc 0.4
+user 50, loss 1.3314910879731179, acc 0.4
+user 61, loss 1.4015399765968324, acc 0.36
+user 9, loss 1.2593504738062617, acc 0.34
+user 18, loss 1.2274137973040342, acc 0.36
+user 56, loss 1.2416197987645865, acc 0.38
+user 75, loss 1.4202811575680971, acc 0.4
+user 81, loss 1.3105365843325854, acc 0.3
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+ 
+Avg Training Stats after 99 global rounds:
+Training Loss : 1.459328764967553
+Global model Benign Test Accuracy: 45.02% 
+
+Global model Malicious Accuracy: 0.00%, Malicious Loss: 803.76 , Outputs: tensor([0.0003])
+
+
+ | Global Training Round : 100 |
+
+user 75, loss 1.3525616532564162, acc 0.32
+user 29, loss 1.2892313658446075, acc 0.34
+user 9, loss 1.2110190742462872, acc 0.42
+user 72, loss 1.2153107077628376, acc 0.38
+user 18, loss 1.2242556933686135, acc 0.28
+user 92, loss 1.2477729003131388, acc 0.46
+user 6, loss 1.2805231123045087, acc 0.48
+user 73, loss 1.3830959885567427, acc 0.4
+user 77, loss 1.3680233882367614, acc 0.42
+user 49, loss 1.3954062352329493, acc 0.18
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+ 
+Avg Training Stats after 100 global rounds:
+Training Loss : 1.4577026774370005
+Global model Benign Test Accuracy: 44.65% 
+
+Global model Malicious Accuracy: 0.00%, Malicious Loss: 983.28 , Outputs: tensor([5.3662e-05])
+
+ 
+ Results after 100 global rounds of training:
+|---- Test Accuracy: 44.65%
+Traceback (most recent call last):
+  File "fedavg.py", line 149, in <module>
+    with open(file_name, 'wb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: '../save/objects/cifar_cnn_100_C[0.1]_iid[1]_E[10]_B[10].pkl'
