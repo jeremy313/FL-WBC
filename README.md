@@ -1,5 +1,5 @@
 # FL-WBC: Enhancing Robustness against Model Poisoning Attacks in Federated Learning from a Client Perspective
-Official implementation of "FL-WBC: Enhancing Robustness against Model Poisoning Attacks in Federated Learning from a Client Perspective"
+Official implementation of "FL-WBC: Enhancing Robustness against Model Poisoning Attacks in Federated Learning from a Client Perspective". The paper can be found at https://arxiv.org/pdf/2110.13864.pdf
 
 
 ## Abstract
